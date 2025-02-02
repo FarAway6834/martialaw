@@ -11,7 +11,6 @@ setup(
     keywords=['martial', 'law', 'closer', 'joke'],
     python_requires='>=3.4',
     package_data={},
-    zip_safe=False,
     classifiers=[
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
@@ -24,6 +23,5 @@ setup(
         'Programming Language :: Python :: 3.12',
         'Programming Language :: Python :: 3.13',
         'Programming Language :: Python :: 3.14',
-        'Programming Language :: Python :: 3.15',
     ],
 )
