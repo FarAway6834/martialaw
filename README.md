@@ -1,7 +1,7 @@
 # martialaw
 It's joke. Don't debating with it.
 
-*`pip install martialaw`*
+*`pip install martialaw`* both *`pip install martialLaw`* and *`pip install YoonSuckYall`* possible
 
 ## `martialaw.martialaw.py` __doc__string
 
