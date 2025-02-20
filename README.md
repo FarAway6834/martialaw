@@ -1,6 +1,8 @@
 # martialaw
 It's joke. Don't debating with it.
 
+*`pip install martialaw`*
+
 ## `martialaw.martialaw.py` __doc__string
 
 ```markdown
